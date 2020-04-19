@@ -1,0 +1,10 @@
+.bordered{
+border: 1px dashed black;
+background-color:#eee;
+}
+.bule{
+    color:red;
+}
+.round{
+    border-radius:5px;
+}
